@@ -1,4 +1,4 @@
-# gerador-de-comprovante-em-python
+# gerador-de-comprovante-em-python com tkinter
 
 esse é um software feito a pedido de uma empresa para geração e emissão de comprovantes 
 
