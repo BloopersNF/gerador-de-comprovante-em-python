@@ -1,0 +1,1 @@
+Eu {seller} estou vendendo para {buyer}({company}) um total de {qtd} garrafões, sendo {interchangeable} intercambiaveis e {scrap} sucata.
